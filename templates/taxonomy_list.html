@@ -1,0 +1,22 @@
+{% import "macros.html" as macros %}
+<!DOCTYPE html>
+<html>
+    {{ macros::head(title=taxonomy.name, css="/index.css") }}
+    <body>
+        <div id="root">
+            <header>
+                <h1>{{taxonomy.name}}</h1>
+            </header>
+
+            <main>
+                <menu>
+                    {% for term in terms %}
+                    <li>
+                        <a href="{{term.path}}">{{term.name}}</a>
+                    </li>
+                    {% endfor %}
+                </menu>
+            </main>
+        </div>
+    </body>
+</html>

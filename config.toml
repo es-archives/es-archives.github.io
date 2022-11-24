@@ -1,0 +1,16 @@
+# Deployment URL
+base_url = "https://es-archive.github.io"
+
+compile_sass = true
+build_search_index = true
+
+taxonomies = [
+    { name="author", feed=true },
+    { name="tags", feed=true },
+]
+
+[markdown]
+highlight_code = false
+
+[extra]
+

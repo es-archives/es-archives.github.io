@@ -1,0 +1,35 @@
+{% import "macros.html" as macros %}
+<!DOCTYPE html>
+<html>
+    {{ macros::head(title=page.title, css="/entry.css") }}
+    <body>
+        <div id="root">
+            <header>
+                <h1>{{page.title}}</h1>
+                <dl>
+                    <dt>Author</dt>
+                    <dd>
+                        <a href="/author/{{page.taxonomies.author.0|slugify}}">
+                            {{page.taxonomies.author.0}}
+                        </a>
+                    </dd>
+
+                    <dt>Date</dt>
+                    <dd>{{page.date}}</dd>
+
+                    <dt>Source</dt>
+                    <dd><a href="{{page.extra.source}}">{{page.extra.source}}</a></dd>
+
+                    <dt>Tags</dt>
+                    <dd><ul class="comma-list">{% for tag in page.taxonomies.tags %}
+                        <li><a href="/tags/{{tag}}">{{tag}}</a></li>
+                    {% endfor %}</ul></dd>
+                </dl>
+            </header>
+
+            <main>
+                {{page.content|safe}}
+            </main>
+        </div>
+    </body>
+</html>
