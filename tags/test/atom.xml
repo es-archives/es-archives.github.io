@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - test</title>
+	<link href="https://es-archive.github.io/tags/test/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://es-archive.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-23T00:00:00+00:00</updated>
+	<id>https://es-archive.github.io/tags/test/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Test One</title>
+		<published>2022-11-23T00:00:00+00:00</published>
+		<updated>2022-11-23T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://es-archive.github.io/rachrasterbutt/2022-11-23-test-one/" type="text/html"/>
+		<id>https://es-archive.github.io/rachrasterbutt/2022-11-23-test-one/</id>
+		<content type="html">&lt;p&gt;words words words&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>DEEPFIELDGIRL, 2022-10-23</title>
+		<published>2022-10-23T00:00:00+00:00</published>
+		<updated>2022-10-23T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://es-archive.github.io/deepfieldgirl/2022-10-23/" type="text/html"/>
+		<id>https://es-archive.github.io/deepfieldgirl/2022-10-23/</id>
+		<content type="html">&lt;p&gt;The city lay under siege, the shores of the island were now taken and an army marched closer. The knight sat silently and prayed to, Valite, the goddess of marital strength, offering her life in exchange for victory on the battlefield.&lt;&#x2F;p&gt;
+&lt;p&gt;The goddess had granted her an indestructible suit of armor, decorated in golden vistas of marble well-governed cities. With a firm commitment she donned the suit and marched outwards to the battlefield.&lt;&#x2F;p&gt;
+&lt;p&gt;There her her gleaming armor protecting her as she cut through armies. Not even the mighty Halaphan could kill her, his hammer merely bouncing off her helm. Catapults lay in ruins and the army was dispelled.&lt;&#x2F;p&gt;
+&lt;p&gt;The golden vistas covered in blood she returned to the city and a triumph was had, flowers sticking to her plate, white and purple stained by red bleeding through. But when the triumph was over and she reached for the latch to remove her armor she found it stuck.&lt;&#x2F;p&gt;
+&lt;p&gt;She battled the latch, searching for some force or some reagent that would free her, but there was none that could undo the rust nor any force strong enough to destroy her indestructible armor.&lt;&#x2F;p&gt;
+&lt;p&gt;Slowly too the joints seized and rusted, solidifying until it stood stationary in the middle of the battlefield, posed in her walking form.&lt;&#x2F;p&gt;
+&lt;p&gt;There she would sit as a statue where pigeons rested and children would play around, long fading into memory.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

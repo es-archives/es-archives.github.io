@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://es-archive.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/author/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/author/deepfieldgirl/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/author/rachrasterbutt/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/deepfieldgirl/2022-10-23/</loc>
+        <lastmod>2022-10-23</lastmod>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/rachrasterbutt/2022-11-23-test-one/</loc>
+        <lastmod>2022-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/tags/combat/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/tags/sfw/</loc>
+    </url>
+    <url>
+        <loc>https://es-archive.github.io/tags/test/</loc>
+    </url>
+</urlset>
